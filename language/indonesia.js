@@ -60,7 +60,7 @@ Total diblokir: *${blockNumber.length}* user\n`
 }
 
 exports.notAdmin = () => {
-    return `User Bukan Admin\n_FachriBot-MDོ*_`
+    return `User Bukan Admin\n_*FachriBot-MDོ*_`
 }
 
 exports.adminAlready = () => {
@@ -85,13 +85,13 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai ${pushname} Selamat ${salam}\nSaya One Botz-MD. Semenjak WhatsApp Sudah Update, One Botz Mengikuti Update Dari WhatsApp\n_Mark Autis_
+	return`Hai ${pushname} Selamat ${salam}\nSaya FachriBot-MD. Semenjak WhatsApp Sudah Update, FachriBotz Mengikuti Update Dari WhatsApp\n_Mark Autis_
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
-*⌚Time: ${time}*
-*📚 List-Menu One Botz-Md :*
+*⌚Time: ${time}
+*📚 List-Menu FachriBotz-MD :*
 
 ┏──『 Bot Info 』──⬣ 
 │⬡ ${prefix}owner
@@ -843,7 +843,7 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
 ⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan FachriBotz
 😖🙏
 `
 }
