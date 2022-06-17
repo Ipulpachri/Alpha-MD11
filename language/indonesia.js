@@ -1,40 +1,40 @@
 exports.private = () =>{
-	return`Hanya Bisa Digunakan Di Private Chat\n_*One Botz-MD*_`
+	return`Hanya Bisa Digunakan Di Private Chat\n_*FachriBot-MDོ*_`
 	}
 exports.wait = () => {
-    return `Memproses.. Mohon Di Tunggu\n_*One Botz-MD*_`
+    return `Memproses.. Mohon Di Tunggu\n_*FachriBot-MDོ*_`
 }
 exports.ok = () => {
-    return `Done\n_*One Botz-MD*_`
+    return `Done\n_*FachriBot-MDོ*_`
 }
 
 exports.err = () => {
-    return `Fitur Sedang Error :/\n_*One Botz-MD*_`
+    return `Fitur Sedang Error :/\n_*FachriBot-MDོ*_`
 }
 exports.erorLink = () => {
-    return `Link Error Atau Salah\n_One Botz-MD*_`
+    return `Link Error Atau Salah\n_FachriBot-MDོ*_`
 }
 exports.media = () => {
     return `Pilih Media Yang Akan Di Kirim`
 }
 exports.replyImg = (prefix, command) => {
-    return `Kirim/Reply Foto Dengan Caption ${prefix + command}\n_*One Botz-MD*_`
+    return `Kirim/Reply Foto Dengan Caption ${prefix + command}\n_*FachriBot-MDོ*_`
 }
 
 exports.wrongFormat = (prefix) => {
-    return `Format Yang Kamu Kirim Salah, Coba Periksa Di ${prefix}allmenu\n_*One Botz-MD*_`
+    return `Format Yang Kamu Kirim Salah, Coba Periksa Di ${prefix}allmenu\n_*FachriBot-MDོ*_`
 }
 
 exports.emptyMess = () => {
-    return `Masukin Pesan Yang Ingin Di Sampaikan\n*_One Botz-MD_*`
+    return `Masukin Pesan Yang Ingin Di Sampaikan\n*_FachriBot-MDོ_*`
 }
 
 exports.cmdNotFound = (cmd, prefix) => {
-    return `Fitur ${cmd} Tidak Ada Di ${prefix}allmenu\n*_One Botz-MD_*`
+    return `Fitur ${cmd} Tidak Ada Di ${prefix}allmenu\n*_FachriBot-MDོ_*`
 }
 
 exports.ownerOnly = () => {
-    return `Anda Bukan Owner\n*_One Botz-MD*_`
+    return `Anda Bukan Owner\n*_FachriBot-MDོ*_`
 }
 
 exports.doneOwner = () => {
@@ -42,7 +42,7 @@ exports.doneOwner = () => {
 }
 
 exports.groupOnly = () => {
-    return `Gunakan Ini Di Grup\n_*One Botz-MD*_`
+    return `Gunakan Ini Di Grup\n_*FachriBot-MDོ*_`
 }
 
 exports.adminOnly = () => {
@@ -50,7 +50,7 @@ exports.adminOnly = () => {
 }
 
 exports.nhFalse = () => {
-    return `Coba Lagi Karena Kode Salah\n_*One Botz-MD*_`
+    return `Coba Lagi Karena Kode Salah\n_*FachriBot-MDོ*_`
 }
 
 exports.listBlock = (blockNumber) => {
@@ -60,7 +60,7 @@ Total diblokir: *${blockNumber.length}* user\n`
 }
 
 exports.notAdmin = () => {
-    return `User Bukan Admin\n*_One Botz-MD*_`
+    return `User Bukan Admin\n_FachriBot-MDོ*_`
 }
 
 exports.adminAlready = () => {
