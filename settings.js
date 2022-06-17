@@ -18,20 +18,20 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "One Botz-MD" //namabot kalian
-global.ownername= "Davitt" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://github.com/davidpangrib001" //bebas
-global.email = "davidpangrib001@gmail.com" //bebas
-global.region = "Mars" //bebas
-global.ownernomer = "6282160268332" // nomor wa kalian
-global.ownernomerr = "+6282160268332" //nmr wa kalian
+global.botname = "FachriBot-MD" //namabot kalian
+global.ownername= "Fachri" //nama kalian
+global.myweb ="https://ipulpachri.github.io/docs" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/SaefulFahri" //bebas asal jan hapus
+global.github = "https://github.com/Ipulpachri" //bebas
+global.email = "saefulfachri18@gmail.com" //bebas
+global.region = "Indonesia" //bebas
+global.ownernomer = "6285713041886" // nomor wa kalian
+global.ownernomerr = "+6285713041886" //nmr wa kalian
 global.thumbnail = "./image/P.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome= "https://uploader-one-botz.herokuapp.com/file/85lUd25PcAsN.jpeg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6282160268332","0","6282128475388"] //ganti agar fitur owner bisa di gunakan
-global.packname = 'Helium' //sticker wm ubah
+global.owner = ["6285713041886","0","6285713041886"] //ganti agar fitur owner bisa di gunakan
+global.packname = 'FachriBot-MDོ' //sticker wm ubah
 global.author = '' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
