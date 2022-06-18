@@ -85,7 +85,7 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai ${pushname} Selamat ${salam}\nSaya FachriBot-MD. Semenjak WhatsApp Sudah Update, FachriBotz Mengikuti Update Dari WhatsApp\n_Mark Autis_
+	return`Hai ${pushname} Selamat ${salam}\nSaya FachriBot-MD. Semenjak WhatsApp Sudah Update, FachriBotz Mengikuti Update Dari WhatsApp\n_© Fachri_
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -841,9 +841,9 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan Fachri-BotMD di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan FachriBotz
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan FachriBot-MD
 😖🙏
 `
 }
